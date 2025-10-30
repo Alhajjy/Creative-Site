@@ -30,3 +30,12 @@ The layout and structure were inspired by templates from **Elzero Web School** (
 1. Clone the repository:
    ```bash
    git clone https://github.com/Alhajjy/Creative-Site.git
+2. Open index.html in your browser to view the site locally. 
+
+3. Customize the content, colors, and layout to fit your needs!
+ 
+## 📄 License 
+
+This implementation is for educational and demonstration purposes.
+
+> Made with ❤️ by Alhajjy
